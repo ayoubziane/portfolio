@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.15618408.chunk.css",
+    "main.js": "/portfolio/static/js/main.b1790585.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b1790585.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9e29931.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9e29931.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/portfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.d79e6280.chunk.js": "/portfolio/static/js/2.d79e6280.chunk.js",
+    "static/js/2.d79e6280.chunk.js.map": "/portfolio/static/js/2.d79e6280.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/portfolio/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/portfolio/static/js/3.f0e5a195.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/portfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.15618408.chunk.css.map": "/portfolio/static/css/main.15618408.chunk.css.map",
+    "static/js/2.d79e6280.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d79e6280.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/portfolio/static/media/about.aee0f771.png",
+    "static/media/admin_interface.61391f64.png": "/portfolio/static/media/admin_interface.61391f64.png",
+    "static/media/avatar.7e70a3fd.png": "/portfolio/static/media/avatar.7e70a3fd.png",
+    "static/media/cv_ziane-cherif-ayoub.9b0f4586.pdf": "/portfolio/static/media/cv_ziane-cherif-ayoub.9b0f4586.pdf",
+    "static/media/health_interface.e33594b4.png": "/portfolio/static/media/health_interface.e33594b4.png",
+    "static/media/style.css": "/portfolio/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/portfolio/static/media/home-main.359935c3.svg",
+    "static/media/memoire_pfe_ziane-cherif-ayoub.764a3048.pdf": "/portfolio/static/media/memoire_pfe_ziane-cherif-ayoub.764a3048.pdf",
+    "static/media/mobile_interface.fcb83462.png": "/portfolio/static/media/mobile_interface.fcb83462.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e29931.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.d79e6280.chunk.js",
+    "static/css/main.15618408.chunk.css",
+    "static/js/main.b1790585.chunk.js"
+  ]
+}

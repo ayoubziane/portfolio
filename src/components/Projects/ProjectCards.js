@@ -42,7 +42,7 @@ function ProjectCards(props) {
           (
             <Button variant="primary" href={pdf} target="_blank">
               <AiOutlineDownload />
-              &nbsp;Télécharger le CV
+              &nbsp;Télécharger le rapport
             </Button>
           )
           :
